@@ -1,6 +1,12 @@
 # WELCOME
 
+## Dataset
+
 This project is a step to step process on how to use python for data analysis.
+
+The purpose of this project is to check whether amount of  salary one receives is affected by one's gender,education level,job title and years of experience.
+
+The dataset used in this project was downloaded from kaggle datasets.Here is the link to access the data https://www.kaggle.com/datasets/veronikanikaaa/salary-data-based-on-country-and-race/data.
 
 I am going to utilise python libraries to clean the data,data transformation,data analysis and data visualization.
 
