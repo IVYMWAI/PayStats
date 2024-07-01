@@ -65,7 +65,7 @@ I used Jupyter Notebooks as my Integrated Development Environment.
 
 This is an opensource project and you are welcome to contribute and improve my work.
 
-You can reach me via my email address (ivymwai6@gmail.com) if you have any questions.
+You can reach me via my email address (<ivymwai6@gmail.com>) if you have any questions.
 
 Thank you!
 
