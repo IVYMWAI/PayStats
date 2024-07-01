@@ -59,7 +59,7 @@ Data analysis:This process will involve performing descriptive analysis so as to
 
 Data Visualization will involve presenting the findings of the project in form of graphs and charts.
 
-## NOTEBETTER!
+## NOTEBETTER
 
 I used Jupyter Notebooks as my Integrated Development Environment.
 
